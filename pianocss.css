@@ -1,0 +1,108 @@
+body{
+  background-image: url("cover3.jpg");
+}
+.jumbotron{
+  background-image: url("cover3.jpg");
+  color: white;
+}
+.black{
+  width: 100px;
+  height: 300px;
+  margin: 1px;
+  background-color: gray;
+  border: 5px solid black;
+  font-size: 100px;
+  color: black;
+  border-radius: 20px;
+}
+.white{
+  width: 100px;
+  height: 300px;
+  margin: 1px;
+  background-color: white;
+  border: 5px solid black;
+  font-size: 100px;
+  color: black;
+  border-radius: 20px;
+}
+.a{
+  width: 100px;
+  height: 300px;
+  margin: 10px;
+  border: 5px solid black;
+  transform: scale(0.5);
+  background-color: white;
+  transition: 0.3s;
+}
+.s{
+  width: 100px;
+  height: 300px;
+  margin: 10px;
+  border: 5px solid black;
+  transform: scale(0.5);
+  background-color: black;
+  transition: 0.3s;
+}
+.d{
+  width: 100px;
+  height: 300px;
+  margin: 10px;
+  border: 5px solid black;
+  transform: scale(0.5);
+  background-color: white;
+  transition: 0.3s;
+}
+.f{
+  width: 100px;
+  height: 300px;
+  margin: 10px;
+  border: 5px solid black;
+  transform: scale(0.5);
+  background-color: black;
+  transition: 0.3s;
+}
+.g{
+  width: 100px;
+  height: 300px;
+  margin: 10px;
+  border: 5px solid black;
+  transform: scale(0.5);
+  background-color: white;
+  transition: 0.3s;
+}
+.h{
+  width: 100px;
+  height: 300px;
+  margin: 10px;
+  border: 5px solid black;
+  transform: scale(0.5);
+  background-color: black;
+  transition: 0.3s;
+}
+.j{
+  width: 100px;
+  height: 300px;
+  margin: 10px;
+  border: 5px solid black;
+  transform: scale(0.5);
+  background-color: white;
+  transition: 0.3s;
+}
+.k{
+  width: 100px;
+  height: 300px;
+  margin: 10px;
+  border: 5px solid black;
+  transform: scale(0.5);
+  background-color: black;
+  transition: 0.3s;
+}
+.l{
+  width: 100px;
+  height: 300px;
+  margin: 10px;
+  border: 5px solid black;
+  transform: scale(0.5);
+  background-color: white;
+  transition: 0.3s;
+}
